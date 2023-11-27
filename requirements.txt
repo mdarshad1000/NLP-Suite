@@ -1,0 +1,11 @@
+yake==0.4.8
+openai==0.26.4
+rake-nltk==1.0.6
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
+bertopic==0.13.0
+beautifulsoup4==4.6.3
+nltk==3.7
+wordcloud==1.8.2.2
+joblib==1.2.0
+
+
